@@ -1,0 +1,13 @@
+{
+    "name": "dbmover/pgsql-conditionals",
+    "description": "Dbmover plugin for wrapping PostgreSQL conditionals in a \"lamba\"",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
