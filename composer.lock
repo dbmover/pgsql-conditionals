@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9db3496490663966fefc61559c573925",
+    "content-hash": "d50321e74277848d92e3ad871294b34c",
+    "packages": [
+        {
+            "name": "dbmover/conditionals",
+            "version": "0.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/dbmover/conditionals.git",
+                "reference": "da9df156386b8d1b03c2ecc62d78103a94e5fdf9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dbmover/conditionals/zipball/da9df156386b8d1b03c2ecc62d78103a94e5fdf9",
+                "reference": "da9df156386b8d1b03c2ecc62d78103a94e5fdf9",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Marijn Ophorst",
+                    "email": "marijn@monomelodies.nl"
+                }
+            ],
+            "description": "Dbmover plugin to hoist conditional statements",
+            "time": "2017-04-08 14:57:18"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
